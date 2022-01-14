@@ -1,8 +1,8 @@
-# _{Portfolio}_
+# _Portfolio_
 
-#### By _**{Niles O'Neil}**_
+#### By _**Niles O'Neil**_
 
-#### _{A Portfolio of projects I've worked on and a bit about me}_
+#### _A Portfolio of projects I've worked on and a bit about me_
 
 ## Technologies Used
 
@@ -12,7 +12,7 @@
 
 ## Description
 
-_{A Webpage about Niles O'Neil, projects he's worked on, hobbies, a bit of background about him. The object of this webpage is to inform anyone about his goals, hobbies, and current coding abilities.}_
+_A Webpage about Niles O'Neil, projects he's worked on, hobbies, a bit of background about him. The object of this webpage is to inform anyone about his goals, hobbies, and current coding abilities._
 
 ## Setup/Installation Requirements
 
