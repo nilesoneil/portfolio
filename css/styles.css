@@ -1,0 +1,23 @@
+h1 {
+  text-align: center;
+  color: rgb(114, 25, 25);
+}
+
+img {
+  margin: auto;
+  margin: 10px;
+  height: 50%;
+  border: 3px solid silver;
+  padding: 3px;
+}
+
+h2 {
+  text-align: center;
+  font-style: normal;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.about-me {
+  color:rgb(255, 0, 149);
+}
