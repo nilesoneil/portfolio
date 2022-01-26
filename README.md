@@ -4,6 +4,8 @@
 
 #### _A Portfolio of projects I've worked on and a bit about me_
 
+[Link to hosted site](https://nilesoneil.github.io/portfolio/)
+
 ## Technologies Used
 
 * _HTML_
